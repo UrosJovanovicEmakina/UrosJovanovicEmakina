@@ -37,3 +37,6 @@ const turtleMini = new Turtle("Mica", 1, 1);
 const turtleCica = new Turtle("Cica", 2, 2, "Cici");
 turtleMini.animalInfo();
 turtleCica.animalInfo();
+
+const turtleNica = new Turtle("Cica", 2, 2, "Nici");
+turtleNica.animalInfo();
